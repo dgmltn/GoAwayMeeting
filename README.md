@@ -11,7 +11,7 @@ Using
 -----
 
 To just download the extension, [click here](https://github.com/dgmltn/GoAwayMeeting/blob/master/GoAwayMeeting.crx?raw=true). 
-Then click and drag it to Chrome. Chrome should prompt you to accept the installation.
+Then click and drag it to [your extensions page](chrome://extensions). Chrome should prompt you to accept the installation.
 
 License
 -------
