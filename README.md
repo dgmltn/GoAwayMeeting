@@ -10,5 +10,5 @@ Never see this screen again: ![screenshot](https://raw.github.com/dgmltn/GoAwayM
 Using
 -----
 
-To just download the extension, [click here](https://raw.github.com/dgmltn/GoAwayMeeting/blob/master/GoAwayMeeting.crx?raw=true). 
+To just download the extension, [click here](https://github.com/dgmltn/GoAwayMeeting/blob/master/GoAwayMeeting.crx?raw=true). 
 Then click and drag it to Chrome. Chrome should prompt you to accept the installation.
