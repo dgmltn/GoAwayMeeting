@@ -1,0 +1,14 @@
+{
+  "name": "GoAwayMeeting",
+  "version": "1.0",
+  "description": "Kills all the annoying tabs opened by GoToMeeting.",
+  "background": { "scripts": ["background.js"] },
+  "permissions" : [
+    "tabs"
+  ],
+  "icons" : {
+    "48" : "goaway-48.png",
+    "128" : "goaway-128.png"
+  },
+  "manifest_version": 2
+}
