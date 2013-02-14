@@ -1,6 +1,7 @@
 {
   "name": "GoAwayMeeting",
   "version": "1.0",
+  "homepage_url": "https://github.com/dgmltn/GoAwayMeeting",
   "description": "Kills all the annoying tabs opened by GoToMeeting.",
   "background": { "scripts": ["background.js"] },
   "permissions" : [
