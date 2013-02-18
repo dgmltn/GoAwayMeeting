@@ -5,7 +5,11 @@ Chrome extension to automatically close the sea of annoying tabs opened by GoToM
 
 GoAwayMeeting was developed using the Annoyance-Based Development process.
 
-Never see this screen again: ![screenshot](https://raw.github.com/dgmltn/GoAwayMeeting/master/resources/screen1.png)
+Never see these screens again: 
+
+![screenshot](https://raw.github.com/dgmltn/GoAwayMeeting/master/resources/screen1.png)
+
+![screenshot](https://raw.github.com/dgmltn/GoAwayMeeting/master/resources/screen2.png)
 
 Using
 -----
